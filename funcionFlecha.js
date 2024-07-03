@@ -3,7 +3,7 @@ let flecha = (num1,num2) => console.log("La suna de los dos numeros es: " + (num
 
 flecha(2,3);
 
-//función flecha sin parámetros - utilizar 
+//función flecha sin parámetros
 let flecha2 = () => console.log("hola mundo");
 
 flecha2();
